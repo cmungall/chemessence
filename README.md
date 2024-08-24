@@ -12,6 +12,10 @@ __WARNING__ this ontology **relabels** and **rewires** CHEBI in order
 to make a simpler subset. If you don't know what this means, don't use
 this. You have been warned!
 
+## Browse
+
+https://bioportal.bioontology.org/ontologies/CHEMESSENCE
+
 ## Examples
 
 ### Common ancestor of glutamate and lysine (L-forms)
