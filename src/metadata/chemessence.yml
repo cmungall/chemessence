@@ -1,0 +1,28 @@
+# PURL configuration for http://purl.obolibrary.org/obo/chemessence
+
+idspace: CHEMESSENCE
+base_url: /obo/chemessence
+
+products:
+- chemessence.owl: https://raw.githubusercontent.com/geneontology/chemessence/main/chemessence.owl
+- chemessence.obo: https://raw.githubusercontent.com/geneontology/chemessence/main/chemessence.obo
+
+term_browser: ontobee
+example_terms:
+- CHEMESSENCE_0000000
+
+entries:
+
+- prefix: /releases/
+  replacement: https://raw.githubusercontent.com/geneontology/chemessence/v
+
+- prefix: /tracker/
+  replacement: https://github.com/geneontology/chemessence/issues
+
+- prefix: /about/
+  replacement: http://www.ontobee.org/ontology/CHEMESSENCE?iri=http://purl.obolibrary.org/obo/
+
+## generic fall-through, serve direct from github by default
+- prefix: /
+  replacement: https://raw.githubusercontent.com/geneontology/chemessence/main/
+
