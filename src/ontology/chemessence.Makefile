@@ -10,7 +10,8 @@ DB = $(DB_DIR)/chemessence.db
 sync: $(SRC)
 
 $(SRC):
-	robot convert -i ../../../ontology-access-kit/notebooks/OBO/tmp/all.obo -o $@
+	robot convert -i ../../src/notebooks/tmp/all.obo -o $@
+#	robot convert -i ../../../ontology-access-kit/notebooks/OBO/tmp/all.obo -o $@
 
 
 $(IMGDIR)/term-%.png:
