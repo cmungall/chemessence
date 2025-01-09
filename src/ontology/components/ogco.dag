@@ -22424,7 +22424,7 @@ $chemical_ontology ; OGCO:00000813
     %5-bromouridine ; OGCO:00018030 ; CAS:957-75-5
    %benzo(alpha)pyrene ; OGCO:00018044 ; CAS:50-32-8
    %caffeine ; OGCO:00016315 ; CAS:58-08-2 ; synonym:13\,7-trimethylxanthine % trimethylxanthines ; OGCO:00016352
-   %cisplatin ; OGCO:00018045 ; CAS:15663-27-1 ; synonym:\%cis-dichlorodiammineplatinum(II)
+   %cisplatin ; OGCO:00018045 ; CAS:15663-27-1 ; synonym:cis-dichlorodiammineplatinum(II)
    %colchicine ; OGCO:00018043 ; CAS:64-86-8
    %cupric sulfate ; OGCO:00018042 ; CAS:7758-98-7
    %diepoxybutane ; OGCO:00018065 ; CAS:1464-53-5 ; synonym:DEB ; synonym:erythritol anhydride
