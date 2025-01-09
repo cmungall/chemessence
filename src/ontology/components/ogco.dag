@@ -1816,7 +1816,7 @@ $chemical_ontology ; OGCO:00000813
           %3\,5\,3'-L-triiodo-L-thyronine ; OGCO:00012204 ; CAS:6893-02-3 ; KEGG.LIGAND:C02465 ; synonym:(S)-2-amino-3-[4-(4-hydroxy-3-iodophenoxy)-3\,5-diiodophenyl]propanoic acid ; synonym:3'\,3''\,5'-triiodo-L-thyronine ; synonym:3\,3'\,5-triiodo-L-thyronine ; synonym:3\,5\,3'-triiodothyronine ; synonym:L-3\,5\,3'-triiodothyronine ; synonym:liothyronine ; synonym:triiodothyronin
          %iodotyrosines ; OGCO:00016421 % tyrosine derivatives ; OGCO:00010812
           %diiodotyrosines ; OGCO:00018639
-           %3\,5-diiodo-L-tyrosine ; OGCO:00011000 ; CAS:300-39-0 66-02-4 ; KEGG.LIGAND:C01060 ; synonym:3\,5-diiodotyrosine ; synonym:L-diiodotyrosine
+           %3\,5-diiodo-L-tyrosine ; OGCO:00011000 ; CAS:300-39-0 ; CAS:66-02-4 ; KEGG.LIGAND:C01060 ; synonym:3\,5-diiodotyrosine ; synonym:L-diiodotyrosine
            %N-acetyl-L-phenylalanyl-L-diiodotyrosine ; OGCO:00013814 ; KEGG.LIGAND:C04418 % phenylalanine derivatives ; OGCO:00010751
           %monoiodotyrosine ; OGCO:00010277
            %3-iodo-L-tyrosine ; OGCO:00000907 ; CAS:70-78-0 ; KEGG.LIGAND:C02515
@@ -4826,7 +4826,7 @@ $chemical_ontology ; OGCO:00000813
            %2-hydroxy-3-carboxy-benzalpyruvate ; OGCO:00018452 ; CAS:162794-83-4 ; UMBBD.COMPOUND:c0727
            %2-hydroxy-3-methyl benzalpyruvate ; OGCO:00018453 ; UMBBD.COMPOUND:c0717
            %trans-2'-carboxybenzalpyruvate ; OGCO:00018338 ; UMBBD.COMPOUND:c0447
-          %pyruvate ; OGCO:00010636 ; CAS:127-17-3 ; KEGG.LIGAND:C00022 synonym\:2-oxopropanoate ; UMBBD.COMPOUND:c0159
+          %pyruvate ; OGCO:00010636 ; CAS:127-17-3 ; KEGG.LIGAND:C00022 ; synonym:2-oxopropanoate ; UMBBD.COMPOUND:c0159
          %pyruvic acid ; OGCO:00019512 ; synonym:2-oxopropanoic acid
          %pyruvic acids ; OGCO:00014298
           %benzalpyruvic acids ; OGCO:00018360 % xenobiotic compounds ; OGCO:00001412
