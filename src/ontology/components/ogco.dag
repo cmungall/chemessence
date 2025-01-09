@@ -5179,7 +5179,7 @@ $chemical_ontology ; OGCO:00000813
           %9-cis\,11-trans-octadecadienoic acid ; OGCO:00012169 ; KEGG.LIGAND:C04056
            %9-cis\,11-trans-octadecadienoate ; OGCO:00016917 % octadecadienoates ; OGCO:00012808
           %linoleic acid ; OGCO:00011460 ; synonym:9\,12-octadecadienoic acid ; synonym:9-cis\,12-cis-octadecadienoic acid
-           %9-cis\,12-cis-octadecadienoate ; OGCO:00012814 ; CAS:60-33-3 LIGAND\:C01595 ; synonym:linoleate % octadecadienoates ; OGCO:00012808
+           %9-cis\,12-cis-octadecadienoate ; OGCO:00012814 ; CAS:60-33-3 ; LIGAND:C01595 ; synonym:linoleate % octadecadienoates ; OGCO:00012808
           %octadecadienoates ; OGCO:00012808
            %(9Z)-(13S)-12\,13-epoxyoctadeca-9\,11-dienoate ; OGCO:00012839 % (9Z)-(13S)-12\,13-epoxyoctadeca-9\,11-dienoic acid ; OGCO:00012201
            %(9Z\,11E)-(13S)-13-hydroperoxyoctadeca-9\,11-dienoate ; CAS:33964-75-9 ; KEGG.LIGAND:C04717 ; synonym:13(S)-HPODE % (9Z\,11E)-(13S)-13-hydroperoxyoctadeca-9\,11-dienoic acid ; OGCO:00012880
