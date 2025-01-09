@@ -21152,7 +21152,7 @@ $chemical_ontology ; OGCO:00000813
     %atropine ; OGCO:00000179 ; KEGG.LIGAND:C01479 ; synonym:dl-hyoscyamine % hyoscyamines ; OGCO:00000187
     %cocaine ; OGCO:00001362 ; CAS:50-36-2 ; KEGG.LIGAND:C01416 ; synonym:beta-cocain ; synonym:l-cocain % piperidines ; OGCO:00000162
     %scopolamine ; OGCO:00000183 ; CAS:51-34-3 ; KEGG.LIGAND:C01851 % piperidines ; OGCO:00000162
-   %tropine ; OGCO:00017140 ; CAS:120-29-6 ; KEGG.LIGAND:C00729 ; synonynm:endo-8-methyl-8-aza-cyclo[3.2.1]octan-3-ol ; synonym:3alpha-tropanol
+   %tropine ; OGCO:00017140 ; CAS:120-29-6 ; KEGG.LIGAND:C00729 ; synonym:endo-8-methyl-8-aza-cyclo[3.2.1]octan-3-ol ; synonym:3alpha-tropanol
    %tropinone ; OGCO:00017143 ; CAS:532-24-1 ; KEGG.LIGAND:C00783 ; synonym:3-tropanone
    %vinblastine ; OGCO:00013812 ; CAS:865-21-4 ; KEGG.LIGAND:C07201 % indole alkaloids ; OGCO:00000128
    %vincristine ; OGCO:00013829 ; CAS:57-22-7 ; KEGG.LIGAND:C07204 ; synonym:22-oxovincaleukoblastine
