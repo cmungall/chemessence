@@ -261,7 +261,7 @@ $chemical_ontology ; OGCO:00000813
       %phytyl group ; OGCO:00017657 ; synonym:(E)-(7R\,11R)-3\,7\,11\,15-tetramethyl-2-hexadecenyl group
       %prenyl groups ; OGCO:00011332
        %polyprenyl groups ; OGCO:00018210
-        %farnesyl group ; OGCO:00015752 ; 00017743synonym:(2E\,6E)-3\,7\,11-trimethyl-2\,6\,10-dodecatrien-1-yl group
+        %farnesyl group ; OGCO:00015752 ; 00017743 synonym:(2E\,6E)-3\,7\,11-trimethyl-2\,6\,10-dodecatrien-1-yl group
         %geranyl group ; OGCO:00012997 ; synonym:(2E)-3\,7-dimethyl-2\,6-octadien-1-yl group
         %geranylgeranyl group ; OGCO:00016424 ; synonym:(2E\,6E\,1OE)-3\,7\,11\,15-tetramethyl2\,6\,10\,14-hexadecatetraen-1-yl group
        %prenyl group ; OGCO:00017601 ; synonym:3-methyl-2-butenyl group
