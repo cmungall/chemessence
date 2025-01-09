@@ -261,7 +261,7 @@ $chemical_ontology ; OGCO:00000813
       %phytyl group ; OGCO:00017657 ; synonym:(E)-(7R\,11R)-3\,7\,11\,15-tetramethyl-2-hexadecenyl group
       %prenyl groups ; OGCO:00011332
        %polyprenyl groups ; OGCO:00018210
-        %farnesyl group ; OGCO:00015752 ; 00017743 synonym:(2E\,6E)-3\,7\,11-trimethyl-2\,6\,10-dodecatrien-1-yl group
+        %farnesyl group ; OGCO:00015752 ; synonym:(2E\,6E)-3\,7\,11-trimethyl-2\,6\,10-dodecatrien-1-yl group
         %geranyl group ; OGCO:00012997 ; synonym:(2E)-3\,7-dimethyl-2\,6-octadien-1-yl group
         %geranylgeranyl group ; OGCO:00016424 ; synonym:(2E\,6E\,1OE)-3\,7\,11\,15-tetramethyl2\,6\,10\,14-hexadecatetraen-1-yl group
        %prenyl group ; OGCO:00017601 ; synonym:3-methyl-2-butenyl group
@@ -3930,7 +3930,7 @@ $chemical_ontology ; OGCO:00000813
        %maleylpyruvic acid ; OGCO:00017279
         %maleylpyruvate ; OGCO:00017284 ; KEGG.LIGAND:C02167 ; synonym:3-maleylpyruvate % dicarboxylates ; OGCO:00017429
        %malic acids ; OGCO:00017348 ; synonym:hydroxysuccinic acid
-        %(R)-malic acid ; OGCO:00017630 ; synomym:D-malic acid
+        %(R)-malic acid ; OGCO:00017630 ; synonym:D-malic acid
         %(S)-malic acid ; OGCO:00017633 ; synonym:L-2-hydroxybutanedioic acid ; synonym:L-malic acid
         %3-oxalomalic acid ; OGCO:00018151
          %3-oxalomalate ; OGCO:00011803 ; CAS:89304-26-7 ; KEGG.LIGAND:C01990 % malates ; OGCO:00014109
@@ -8144,7 +8144,7 @@ $chemical_ontology ; OGCO:00000813
      %geranial ; OGCO:00011998 ; CAS:141-27-5 ; CAS:5392-40-5 ; synonym:trans-citral
      %gibberellin 12 aldehyde ; OGCO:00015175 ; KEGG.LIGAND:C06093 % gibberellins ; OGCO:00001155
      %glyceraldehydes ; OGCO:00000648 ; KEGG.LIGAND:C00071 ; KEGG.LIGAND:C02154 ; synonym:2\,3-dihydroxypropanal ; synonym:2\,3-dihydroxypropionaldehyde ; synonym:aldotriose ; synonym:glycerose % trioses ; OGCO:00001220
-      %D-glyceraldehyde ; OGCO:00010556 ; CAS:453-17-8 367-47-5 ; KEGG.LIGAND:C00577 ; synonym:D-2\,3-dihydroxypropanal ; synonym:D-2\,3-dihydroxypropionaldehyde ; synonym:D-aldotriose ; synonym:D-glycerose
+      %D-glyceraldehyde ; OGCO:00010556 ; CAS:453-17-8 ; CAS:367-47-5 ; KEGG.LIGAND:C00577 ; synonym:D-2\,3-dihydroxypropanal ; synonym:D-2\,3-dihydroxypropionaldehyde ; synonym:D-aldotriose ; synonym:D-glycerose
       %L-glyceraldehyde ; OGCO:00001224 ; KEGG.LIGAND:C02426 ; synonym:L-2\,3-dihydroxypropanal ; synonym:L-2\,3-dihydroxypropionaldehyde ; synonym:L-aldotriose ; synonym:L-glycerose
      %glycolaldehydes ; OGCO:00015810
       %3-indoleglycolaldehyde ; OGCO:00012836 ; KEGG.LIGAND:C03230 ; synonym:3-indolylglycolaldehyde
