@@ -23614,7 +23614,7 @@ $chemical_ontology ; OGCO:00000813
     %2-hydroxyisophthalic acid ; OGCO:00018554 ; CAS:606-19-9 ; UMBBD.COMPOUND:c0729
     %phthalate-4\,5-cis-dihydrodiol ; OGCO:00010743 ; CAS:130073-64-2 ; UMBBD.COMPOUND:c0182
     %phthalates ; OGCO:00016168
-     %bis(2-ethylhexyl)phthalate ; OGCO:00016846 ; CAS:117-81-7 ; KEGG.LIGAND:C03690 ; synomym:dioctyl phthalate ; synonym:2-ethylhexyl phthalate
+     %bis(2-ethylhexyl)phthalate ; OGCO:00016846 ; CAS:117-81-7 ; KEGG.LIGAND:C03690 ; synonym:dioctyl phthalate ; synonym:2-ethylhexyl phthalate
      %hydroxyphthalates ; OGCO:00018372
       %4-hydroxyphthalate ; OGCO:00018400 ; CAS:610-35-5 ; KEGG.LIGAND:C06680 ; UMBBD.COMPOUND:c0186
       %dihydroxyphthalates ; OGCO:00016221
