@@ -6839,7 +6839,7 @@ $chemical_ontology ; OGCO:00000813
     %sulfur compounds ; OGCO:00000971
      %4\,5-cis-dihydroxy-1\,2-dithiacyclohexane ; OGCO:00017479 ; KEGG.LIGAND:C06484 % cyclohexanes ; OGCO:00016011
      %alkyl sulfenates ; OGCO:00016901 ; KEGG.LIGAND:C02245
-     %allicin ; OGCO:00018763 ; CAS:539-86-6 ; KEGG.LIGAND:C07600 synonym\:2-propene-1-sulfinothioic acid S-2-propenyl ester
+     %allicin ; OGCO:00018763 ; CAS:539-86-6 ; KEGG.LIGAND:C07600 ; synonym\:2-propene-1-sulfinothioic acid S-2-propenyl ester
      %camalexin ; OGCO:00018698 ; synonym:3-thiazol-2'-yl-indole % indole phytoalexin ; OGCO:00000030
      %gamma-glutamylcysteinylglutamate ; OGCO:00018807 % tripeptides ; OGCO:00016903
      %glutathiones ; OGCO:00000038 % tripeptides ; OGCO:00016903
