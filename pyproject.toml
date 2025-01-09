@@ -1,0 +1,25 @@
+[project]
+name = "chemessence"
+version = "0.1.0"
+description = "Your project description"
+requires-python = ">=3.8"
+dependencies = [
+    "oaklib",
+    "pandas",
+    "jupyter",
+    "papermill",
+    "matplotlib",
+    "matplotlib_venn",
+    "seaborn",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.envs.default]
+python = "3.9"
+type = "virtual"
