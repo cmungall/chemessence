@@ -23394,7 +23394,7 @@ $chemical_ontology ; OGCO:00000813
      %acenaphthene ; OGCO:00014935 ; CAS:83-32-9 ; synonym:1\,2-dihydroacenaphthylene ; synonym:peri-ethylenenaphthalene
     %carboxynaphthalenes ; OGCO:00011108
      %1\,2-dihydroxy-8-carboxynaphthalene ; OGCO:00011109 ; CAS:162794-82-3 ; UMBBD.COMPOUND:c0725
-     %cis-1\,2-dihydroxy-1\,2-dihydro-8-carboxynaphthalene ; OGCO:00011114 ; CAS:162794-84-5] ; UMBBD.COMPOUND:c0724
+     %cis-1\,2-dihydroxy-1\,2-dihydro-8-carboxynaphthalene ; OGCO:00011114 ; CAS:162794-84-5 ; UMBBD.COMPOUND:c0724
     %cis-1\,2-dihydroxy-1\,2-dihydronaphthalene ; OGCO:00011113 ; UMBBD.COMPOUND:c0334
     %hydroxymethylnaphthalenes ; OGCO:00011134
      %dihydroxymethylnaphthalene ; OGCO:00011087
